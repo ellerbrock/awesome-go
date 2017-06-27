@@ -1,4 +1,4 @@
-![Node Developer Boilerplate](https://github.frapsoft.com/top/awesome-go.png?v=101)
+![awesome go lang](https://github.frapsoft.com/top/awesome-go.png?v=101)
 
 # Awesome Go Lang
 
@@ -9,6 +9,8 @@ _List with awesome Go resources. Work in Progress ..._
 - [color](https://github.com/fatih/color) - Color package for Go (golang) 
 - [gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces
 - [termui](https://github.com/gizak/termui) - Golang terminal dashboard
+- [viper](https://github.com/spf13/viper) - Go configuration with fangs
+- [gosx-notifier](https://github.com/deckarep/gosx-notifier) - gosx-notifier is a Go framework for sending desktop notifications to OSX 10.8 or higher
 
 ## Atom Extensions
 
