@@ -2,25 +2,19 @@
 
 # Awesome Go Lang
 
-_List with awesome Go resources._
-
-## Go Libraries
-
-- [color](https://github.com/fatih/color) - Color package
-- [gopm](https://github.com/gpmgo/gopm) - Go Package Manager
-- [gosx-notifier](https://github.com/deckarep/gosx-notifier) - OSX Desktop Notifications
-- [spinner](https://github.com/briandowns/spinner) - Terminal Spinner
-- [viper](https://github.com/spf13/viper) - Complete configuration solution
-
-## Search
-
-- [golanglibs.com](https://golanglibs.com/) - Search for Go Libraries
+_List with awesome Go resources. Work in progress ..._
 
 ## IDE Extensions
 
 ### Vim
 
+- [gocode](https://github.com/nsf/gocode) - Go autocompletion daemon
+- [syntastic](https://github.com/vim-syntastic/syntastic) - Syntax checking
+- [tagbar](https://github.com/majutsushi/tagbar) -  displays tags in a window, ordered by scope
+- [vim-compiler-go](https://github.com/rjohnsondev/vim-compiler-go) - Vim compiler plugin for Go
+- [vim-go-extra](https://github.com/vim-jp/vim-go-extra) - Extra plugin for golang
 - [vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
+- [vim-godef](https://github.com/dgryski/vim-godef) - godef support
 - [vim-hugo-helper](https://github.com/robertbasic/vim-hugo-helper) - Set of helpers for Hugo Static Page Generator
 
 ###  Atom Extensions
@@ -39,6 +33,20 @@ Create a `save-commands.json` in the root of your Go source folder:
     ]
 }
 ```
+
+## Go Libraries
+
+- [color](https://github.com/fatih/color) - Color package
+- [gopm](https://github.com/gpmgo/gopm) - Go Package Manager
+- [gosx-notifier](https://github.com/deckarep/gosx-notifier) - OSX Desktop Notifications
+- [spinner](https://github.com/briandowns/spinner) - Terminal Spinner
+- [viper](https://github.com/spf13/viper) - Complete configuration solution
+
+
+## Websites
+
+- [golanglibs.com](https://golanglibs.com/) - Search for Go Libraries
+
 
 ##  Contact
 
