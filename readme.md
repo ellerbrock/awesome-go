@@ -29,7 +29,8 @@ Create a `save-commands.json` in the root of your Go source folder:
 ```
 {
     "commands": [
-        "**/*.go : go run {absPath}{filename} "
+        "**/*.go : gofmt -w {absPath}{filename}",
+        "**/*.go : go run {absPath}{filename}"
     ]
 }
 ```
@@ -43,10 +44,24 @@ Create a `save-commands.json` in the root of your Go source folder:
 - [viper](https://github.com/spf13/viper) - Complete configuration solution
 
 
-## Websites
+## Librarie Search
 
 - [golanglibs.com](https://golanglibs.com/) - Search for Go Libraries
 
+## Learning
+
+### Websites
+
+- [official Go Lang Site](https://golang.org/)
+- [Build Web Application with Golang](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
+- [Golang Tutorial](https://gist.github.com/honkskillet/bd1f72223dd8e06b5ce6)
+- [gostart](https://github.com/alco/gostart)
+
+### Example Repositories
+
+- [go-explore](https://github.com/ellerbrock/go-explore)
+- [gobyexample](https://github.com/mmcgrana/gobyexample)
+- [GolangTraining](https://github.com/GoesToEleven/GolangTraining)
 
 ##  Contact
 
