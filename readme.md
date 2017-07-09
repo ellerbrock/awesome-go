@@ -53,6 +53,7 @@ Create a `save-commands.json` in the root of your Go source folder:
 ### Websites
 
 - [official Go Lang Site](https://golang.org/)
+- [GoDoc](https://godoc.org)
 - [Build Web Application with Golang](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
 - [Golang Tutorial](https://gist.github.com/honkskillet/bd1f72223dd8e06b5ce6)
 - [gostart](https://github.com/alco/gostart)
